@@ -154,7 +154,7 @@ showTime();
 // Footer
 
 let footer = $(`
-<footer align='center'><span>© 2021 <a href='https://github.com/DevinSTR'>Devin Development</a> - Made by Devin with ❤️</span></footer>
+<footer align='center'><span>© 2021 <a href='https://github.com/DevinOfficial'>Devin Development</a> - Made by Devin with ❤️</span><br></footer>
 `);/* $(`
 <footer class="footer sticky-bottom"  style="background-color:#2b2a2a;">
   <div class="p-4">
